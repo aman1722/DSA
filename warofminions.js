@@ -1,5 +1,4 @@
 function fn(n,str){
-    // let n = str.length;
     let temp =-1;
     let st=[];
     for(let i=0;i<n;i++){
